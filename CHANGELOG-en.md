@@ -1,5 +1,14 @@
 # What's new in DoctorBook
 
+## 0.13.0 — October 2026
+- Several services per appointment: pick them when booking or add one from the details. Time and price add up on their own.
+- By voice too: say the services together when dictating.
+- Bookings on WhatsApp: share your link or QR to get booking requests, and send your free times ready to go. Both are under More.
+- Busy-time warning: if someone already has that time, it tells you before saving.
+- From the details: add or edit the notes, and choose who takes it.
+- “Skip” now closes all the guide bubbles.
+- Fixes: buttons that were hidden on Android 15 and 16.
+
 ## 0.12.0 — October 2026
 - Discounts: change the price charged when booking or from the details, with −10%, −20% or no charge.
 - Birthdays: add your patients' birthdays and the agenda reminds you on the day, with a greeting ready to send on WhatsApp.

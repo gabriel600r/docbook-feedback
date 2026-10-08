@@ -1,5 +1,14 @@
 # Novità di DoctorBook
 
+## 0.13.0 — ottobre 2026
+- Più servizi per visita: sceglili quando prenoti o aggiungine uno dai dettagli. Tempo e prezzo si sommano da soli.
+- Anche a voce: di' i servizi insieme quando detti.
+- Prenotazioni su WhatsApp: condividi il tuo link o QR per ricevere richieste e invia i tuoi orari liberi già pronti. Sono in Altro.
+- Avviso di orario occupato: se c'è già qualcuno a quell'ora, te lo dice prima di salvare.
+- Dai dettagli: aggiungi o modifica le note e scegli chi se ne occupa.
+- «Salta» chiude tutte le bolle della guida.
+- Correzioni: pulsanti che restavano nascosti su Android 15 e 16.
+
 ## 0.12.0 — ottobre 2026
 - Sconti: cambia il prezzo applicato quando prenoti o dai dettagli, con −10%, −20% o gratis.
 - Compleanni: aggiungi il compleanno dei tuoi pazienti e l'agenda te lo ricorda quel giorno, con gli auguri pronti da mandare su WhatsApp.

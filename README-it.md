@@ -21,11 +21,15 @@ Medici, dentisti, fisioterapisti, psicologi, nutrizionisti e non solo: gestisci 
 
 ## 📅 AGENDA INTELLIGENTE
 
-Visualizza tutti i tuoi appuntamenti del giorno in un colpo d'occhio. Scorri per cambiare data, tocca per vedere i dettagli. Riprogramma, annulla o elimina appuntamenti singolarmente o in blocco.
+Visualizza tutti i tuoi appuntamenti del giorno in un colpo d'occhio. Scorri per cambiare data, tocca per vedere i dettagli. Riprogramma, annulla o elimina appuntamenti singolarmente o in blocco. Aggiungi più servizi alla stessa visita: durata e prezzo si sommano da soli.
 
 ## 🎙️ PRENOTAZIONE VOCALE
 
 Aggiungi appuntamenti parlando: "Rossi domani alle 10 visita generale". L'app riconosce automaticamente il nome, la data, l'ora e il tipo di visita.
+
+## 📲 RICHIESTE SU WHATSAPP
+
+Condividi il tuo link o il tuo codice QR perché i pazienti ti chiedano una visita su WhatsApp, con il messaggio già scritto. E invia gli orari che hai ancora liberi, pronti con un tocco.
 
 ## 💬 PROMEMORIA WHATSAPP
 
@@ -54,6 +58,7 @@ DoctorBook è completamente in italiano — interfaccia, notifiche, promemoria e
 
 - Gratis, con pubblicità: appuntamenti illimitati, fino a 50 pazienti, 15 servizi e 3 professionisti
 - Appuntamenti vocali, promemoria WhatsApp e metriche, senza costi
+- Link e QR per ricevere richieste su WhatsApp, e orari liberi pronti da inviare
 - Nessuna registrazione obbligatoria
 - Funziona offline
 

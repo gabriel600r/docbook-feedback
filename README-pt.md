@@ -21,11 +21,15 @@ Médicos, odontólogos, fisioterapeutas, psicólogos, nutricionistas e mais: org
 
 ## 📅 AGENDA INTELIGENTE
 
-Visualize todos os seus atendimentos do dia de relance. Deslize para mudar de data, toque para ver os detalhes. Remarque, cancele ou exclua consultas de forma individual ou em lote.
+Visualize todos os seus atendimentos do dia de relance. Deslize para mudar de data, toque para ver os detalhes. Remarque, cancele ou exclua consultas de forma individual ou em lote. Inclua vários serviços na mesma consulta: o tempo e o preço se somam sozinhos.
 
 ## 🎙️ AGENDAMENTO POR VOZ
 
 Cadastre consultas falando: "Silva amanhã às 10 consulta geral". O app reconhece o nome, a data, o horário e o tipo de atendimento automaticamente.
+
+## 📲 PEDIDOS PELO WHATSAPP
+
+Compartilhe o seu link ou o seu QR code para que os seus pacientes peçam uma consulta pelo WhatsApp, com a mensagem já escrita. E envie os horários que você ainda tem livres, prontos com um toque.
 
 ## 💬 LEMBRETES VIA WHATSAPP
 
@@ -50,6 +54,7 @@ DoctorBook NÃO é um sistema de prontuários — é uma ferramenta de gestão d
 
 - Grátis, com anúncios: consultas ilimitadas, até 50 pacientes, 15 serviços e 3 profissionais
 - Agendamento por voz, lembretes WhatsApp e métricas, sem custo
+- Link e QR code para receber pedidos pelo WhatsApp, e horários livres prontos para enviar
 - Sem cadastro obrigatório
 - Funciona sem internet
 

@@ -21,11 +21,15 @@ Doctors, dentists, physiotherapists, psychologists, nutritionists and more: mana
 
 ## 📅 SMART SCHEDULE
 
-See all your appointments at a glance. Swipe to change dates, tap to view details. Reschedule, cancel or delete appointments individually or in bulk.
+See all your appointments at a glance. Swipe to change dates, tap to view details. Reschedule, cancel or delete appointments individually or in bulk. Add several services to one appointment: time and price add up on their own.
 
 ## 🎙️ VOICE BOOKING
 
 Add appointments by speaking: "Johnson tomorrow at 10 general consultation". The app recognizes the name, date, time and type of visit automatically.
+
+## 📲 BOOKING REQUESTS ON WHATSAPP
+
+Share your link or QR code so your patients can ask for an appointment on WhatsApp, with the message already written. And send them your free times, put together in one tap.
 
 ## 💬 WHATSAPP REMINDERS
 
@@ -50,6 +54,7 @@ DoctorBook is NOT an electronic health records system — it's an appointment ma
 
 - Free, with ads: unlimited appointments, up to 50 patients, 15 services and 3 professionals
 - Voice booking, WhatsApp reminders and metrics at no cost
+- Link and QR code for booking requests on WhatsApp, and free times ready to send
 - No mandatory sign-up
 - Works offline
 

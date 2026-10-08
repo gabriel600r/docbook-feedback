@@ -1,5 +1,14 @@
 # Novidades do DoctorBook
 
+## 0.13.0 — outubro 2026
+- Vários serviços por consulta: escolha ao agendar ou adicione um nos detalhes. O tempo e o valor se somam sozinhos.
+- Por voz também: diga os serviços juntos ao ditar.
+- Agenda pelo WhatsApp: compartilhe o seu link ou QR para receber pedidos e envie os seus horários livres já prontos. Estão em Mais.
+- Aviso de horário ocupado: se já há alguém nesse horário, o app avisa antes de salvar.
+- Nos detalhes: adicione ou edite as notas e escolha quem atende.
+- “Pular” fecha todas as bolhas do guia.
+- Correções: botões que ficavam escondidos no Android 15 e 16.
+
 ## 0.12.0 — outubro 2026
 - Descontos: mude o valor cobrado ao agendar ou nos detalhes, com −10%, −20% ou cortesia.
 - Aniversários: cadastre o aniversário dos seus pacientes e a agenda avisa no dia, com os parabéns prontos para mandar pelo WhatsApp.

@@ -1,5 +1,14 @@
 # Novedades de DoctorBook
 
+## 0.13.0 — octubre 2026
+- Varios servicios por turno: elegilos al agendar o sumá uno desde el detalle. El tiempo y el precio se suman solos.
+- Por voz también: nombrá los servicios juntos al dictar.
+- Turnos por WhatsApp: compartí tu enlace o QR para que te pidan turno, y mandá tus horarios libres ya armados. Están en Más.
+- Aviso de horario ocupado: si ya hay alguien a esa hora, te avisa antes de guardar.
+- Desde el detalle: agregá o cambiá las notas, y elegí quién atiende.
+- «Saltar» cierra todas las burbujas de la guía.
+- Arreglos: botones que quedaban tapados en Android 15 y 16.
+
 ## 0.12.0 — octubre 2026
 - Descuentos: cambiá el precio cobrado al agendar o desde el detalle, con −10 %, −20 % o sin cargo.
 - Cumpleaños: cargá el cumple de tus pacientes y la agenda te avisa el día, con un saludo listo para mandar por WhatsApp.
