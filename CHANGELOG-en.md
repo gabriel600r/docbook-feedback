@@ -1,5 +1,12 @@
 # What's new in DoctorBook
 
+## 0.14.0 — October 2026
+**Your agenda, now on your computer too**
+
+- Turn the portal on in More › Use on your computer and open the address in the browser of a PC on your same Wi-Fi.
+- Seeing the day and the week is free. With PRO you also book, move and complete appointments.
+- Your data stays on your phone: the computer reads it over your network and nothing goes through the internet.
+
 ## 0.13.0 — October 2026
 - Several services per appointment: pick them when booking or add one from the details. Time and price add up on their own.
 - By voice too: say the services together when dictating.

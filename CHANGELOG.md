@@ -1,5 +1,12 @@
 # Novedades de DoctorBook
 
+## 0.14.0 — octubre 2026
+**Tu agenda, ahora también en la computadora**
+
+- Prendé el portal en Más › Usar en la computadora y abrí la dirección en el navegador de una PC de tu mismo Wi-Fi.
+- Ver el día y la semana es gratis. Con PRO también agendás, movés y completás turnos.
+- Tus datos siguen en tu teléfono: la computadora los lee por tu red y nada pasa por internet.
+
 ## 0.13.0 — octubre 2026
 - Varios servicios por turno: elegilos al agendar o sumá uno desde el detalle. El tiempo y el precio se suman solos.
 - Por voz también: nombrá los servicios juntos al dictar.

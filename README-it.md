@@ -23,6 +23,10 @@ Medici, dentisti, fisioterapisti, psicologi, nutrizionisti e non solo: gestisci 
 
 Visualizza tutti i tuoi appuntamenti del giorno in un colpo d'occhio. Scorri per cambiare data, tocca per vedere i dettagli. Riprogramma, annulla o elimina appuntamenti singolarmente o in blocco. Aggiungi più servizi alla stessa visita: durata e prezzo si sommano da soli.
 
+## 💻 ANCHE SUL TUO COMPUTER
+
+Attiva il portale nell'app e apri la tua agenda nel browser di un PC collegato al tuo stesso Wi-Fi: tutta la settimana a schermo grande. Non serve installare nulla sul computer né creare un account, e i tuoi dati non escono dalla tua rete.
+
 ## 🎙️ PRENOTAZIONE VOCALE
 
 Aggiungi appuntamenti parlando: "Rossi domani alle 10 visita generale". L'app riconosce automaticamente il nome, la data, l'ora e il tipo di visita.
@@ -59,12 +63,13 @@ DoctorBook è completamente in italiano — interfaccia, notifiche, promemoria e
 - Gratis, con pubblicità: appuntamenti illimitati, fino a 50 pazienti, 15 servizi e 3 professionisti
 - Appuntamenti vocali, promemoria WhatsApp e metriche, senza costi
 - Link e QR per ricevere richieste su WhatsApp, e orari liberi pronti da inviare
+- La tua agenda sul computer: giorno e settimana, dal tuo Wi-Fi
 - Nessuna registrazione obbligatoria
 - Funziona offline
 
 ## ⭐ DOCTORBOOK PRO
 
-Senza pubblicità. Pazienti, servizi e professionisti senza limite, più il backup per portare tutto su un altro telefono. 7 giorni gratis; annulli quando vuoi da Google Play.
+Senza pubblicità. Pazienti, servizi e professionisti senza limite, più il backup per portare tutto su un altro telefono. Dal computer puoi anche prenotare, spostare e completare visite. 7 giorni gratis; annulli quando vuoi da Google Play.
 
 Sviluppato da EgeaINC — Gabriel Egea.
 

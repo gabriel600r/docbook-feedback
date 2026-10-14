@@ -23,6 +23,10 @@ Doctors, dentists, physiotherapists, psychologists, nutritionists and more: mana
 
 See all your appointments at a glance. Swipe to change dates, tap to view details. Reschedule, cancel or delete appointments individually or in bulk. Add several services to one appointment: time and price add up on their own.
 
+## 💻 ON YOUR COMPUTER TOO
+
+Turn the portal on in the app and open your agenda in the browser of a PC on your same Wi-Fi: the whole week on a big screen. Nothing to install on the computer and no account to create, and your data never leaves your network.
+
 ## 🎙️ VOICE BOOKING
 
 Add appointments by speaking: "Johnson tomorrow at 10 general consultation". The app recognizes the name, date, time and type of visit automatically.
@@ -55,12 +59,13 @@ DoctorBook is NOT an electronic health records system — it's an appointment ma
 - Free, with ads: unlimited appointments, up to 50 patients, 15 services and 3 professionals
 - Voice booking, WhatsApp reminders and metrics at no cost
 - Link and QR code for booking requests on WhatsApp, and free times ready to send
+- Your agenda on your computer: day and week, over your Wi-Fi
 - No mandatory sign-up
 - Works offline
 
 ## ⭐ DOCTORBOOK PRO
 
-No ads. Unlimited patients, services and professionals, plus a backup you can carry to another phone. 7 days free; cancel anytime from Google Play.
+No ads. Unlimited patients, services and professionals, plus a backup you can carry to another phone. From your computer you also book, move and complete appointments. 7 days free; cancel anytime from Google Play.
 
 Developed by EgeaINC — Gabriel Egea.
 

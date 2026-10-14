@@ -23,6 +23,10 @@ Médicos, odontólogos, kinesiólogos, psicólogos, nutricionistas y más: organ
 
 Visualizá todos tus turnos del día de un vistazo. Deslizá para cambiar de fecha, tocá para ver los detalles. Reprogramá, cancelá o eliminá turnos de forma individual o en lote. Sumá varios servicios en un mismo turno: el tiempo y el precio se suman solos.
 
+## 💻 TAMBIÉN EN TU COMPUTADORA
+
+Prendé el portal en la app y abrí tu agenda en el navegador de una PC de tu mismo Wi-Fi: la semana entera a pantalla grande. No hay que instalar nada en la computadora ni crear una cuenta, y tus datos no salen de tu red.
+
 ## 🎙️ TURNOS POR VOZ
 
 Cargá turnos hablando: "García mañana a las 10 consulta general". La app reconoce el nombre, la fecha, la hora y el tipo de consulta automáticamente.
@@ -55,12 +59,13 @@ DoctorBook NO es un sistema de historias clínicas — es una herramienta de ges
 - Gratis, con publicidad: turnos ilimitados, hasta 50 pacientes, 15 servicios y 3 profesionales
 - Turnos por voz, recordatorios WhatsApp y métricas, sin costo
 - Enlace y QR para pedir turno por WhatsApp, y horarios libres listos para mandar
+- Tu agenda en la computadora: día y semana, por tu Wi-Fi
 - Sin registro obligatorio
 - Funciona sin internet
 
 ## ⭐ DOCTORBOOK PRO
 
-Sin publicidad. Pacientes, servicios y profesionales sin límite, más copia de seguridad para llevarte todo a otro teléfono. 7 días gratis; cancelás cuando quieras desde Google Play.
+Sin publicidad. Pacientes, servicios y profesionales sin límite, más copia de seguridad para llevarte todo a otro teléfono. Desde la computadora también agendás, movés y completás turnos. 7 días gratis; cancelás cuando quieras desde Google Play.
 
 Desarrollada por EgeaINC — Gabriel Egea.
 

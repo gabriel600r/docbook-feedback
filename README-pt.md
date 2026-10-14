@@ -23,6 +23,10 @@ Médicos, odontólogos, fisioterapeutas, psicólogos, nutricionistas e mais: org
 
 Visualize todos os seus atendimentos do dia de relance. Deslize para mudar de data, toque para ver os detalhes. Remarque, cancele ou exclua consultas de forma individual ou em lote. Inclua vários serviços na mesma consulta: o tempo e o preço se somam sozinhos.
 
+## 💻 TAMBÉM NO SEU COMPUTADOR
+
+Ligue o portal no app e abra a sua agenda no navegador de um PC do seu mesmo Wi-Fi: a semana inteira em tela grande. Não é preciso instalar nada no computador nem criar conta, e os seus dados não saem da sua rede.
+
 ## 🎙️ AGENDAMENTO POR VOZ
 
 Cadastre consultas falando: "Silva amanhã às 10 consulta geral". O app reconhece o nome, a data, o horário e o tipo de atendimento automaticamente.
@@ -55,12 +59,13 @@ DoctorBook NÃO é um sistema de prontuários — é uma ferramenta de gestão d
 - Grátis, com anúncios: consultas ilimitadas, até 50 pacientes, 15 serviços e 3 profissionais
 - Agendamento por voz, lembretes WhatsApp e métricas, sem custo
 - Link e QR code para receber pedidos pelo WhatsApp, e horários livres prontos para enviar
+- A sua agenda no computador: dia e semana, pelo seu Wi-Fi
 - Sem cadastro obrigatório
 - Funciona sem internet
 
 ## ⭐ DOCTORBOOK PRO
 
-Sem anúncios. Pacientes, serviços e profissionais sem limite, além de backup para levar tudo para outro celular. 7 dias grátis; cancele quando quiser no Google Play.
+Sem anúncios. Pacientes, serviços e profissionais sem limite, além de backup para levar tudo para outro celular. Pelo computador você também agenda, move e conclui consultas. 7 dias grátis; cancele quando quiser no Google Play.
 
 Desenvolvido por EgeaINC — Gabriel Egea.
 
