@@ -1,5 +1,8 @@
 # Novidades do DoctorBook
 
+## 0.14.1 — outubro 2026
+- Correções menores.
+
 ## 0.14.0 — outubro 2026
 **A sua agenda, agora também no computador**
 
