@@ -1,5 +1,13 @@
 # Novità di DoctorBook
 
+## 0.15.0 — novembre 2026
+**Prodotti, carta fedeltà e i tuoi mesi nelle Statistiche**
+
+- Prodotti: aggiungi quello che vendi in Altro › Prodotti e sommalo al momento di incassare, dalla schermata di ogni visita.
+- Carta fedeltà: un premio ogni tot presenze. Attivala in Altro › Carta fedeltà e segui le presenze nella scheda di ogni paziente.
+- Statistiche: guarda qualsiasi mese passato con le frecce e, in Anno, confronta mese per mese.
+- Correzioni minori.
+
 ## 0.14.1 — ottobre 2026
 - Correzioni minori.
 

@@ -1,5 +1,13 @@
 # What's new in DoctorBook
 
+## 0.15.0 — November 2026
+**Products, a loyalty card and your months in Metrics**
+
+- Products: add what you sell in More › Products and put it on the bill from each appointment's screen.
+- Loyalty card: a reward every so many visits. Turn it on in More › Loyalty card and follow the visits on each patient's page.
+- Metrics: look at any past month with the arrows and, under Year, compare month by month.
+- Minor fixes.
+
 ## 0.14.1 — October 2026
 - Minor fixes.
 

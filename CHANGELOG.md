@@ -1,5 +1,13 @@
 # Novedades de DoctorBook
 
+## 0.15.0 — noviembre 2026
+**Productos, tarjeta de fidelidad y tus meses en Métricas**
+
+- Productos: cargá lo que vendés en Más › Productos y sumalo al cobrar, desde la pantalla de cada turno.
+- Tarjeta de fidelidad: un premio cada tantas visitas. Activala en Más › Tarjeta de fidelidad y seguí las visitas en la ficha de cada paciente.
+- Métricas: mirá cualquier mes anterior con las flechas y, en Año, compará mes por mes.
+- Arreglos menores.
+
 ## 0.14.1 — octubre 2026
 - Arreglos menores.
 
