@@ -30,7 +30,7 @@
 ## 0.12.0 — ottobre 2026
 - Sconti: cambia il prezzo applicato quando prenoti o dai dettagli, con −10%, −20% o gratis.
 - Compleanni: aggiungi il compleanno dei tuoi pazienti e l'agenda te lo ricorda quel giorno, con gli auguri pronti da mandare su WhatsApp.
-- Più spazio gratis: fino a 50 pazienti, 15 servizi e 3 medici, ora con pubblicità. PRO la toglie e non ha limiti.
+- Più spazio gratis: fino a 50 pazienti, 15 servizi e 3 medici. PRO non ha limiti.
 
 ## 0.11.2 — settembre 2026
 - La prenotazione vocale capisce «e mezza» e «meno un quarto», i soprannomi come Peppe o Gigi, e chiede quale quando due hanno lo stesso nome.

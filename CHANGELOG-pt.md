@@ -30,7 +30,7 @@
 ## 0.12.0 — outubro 2026
 - Descontos: mude o valor cobrado ao agendar ou nos detalhes, com −10%, −20% ou cortesia.
 - Aniversários: cadastre o aniversário dos seus pacientes e a agenda avisa no dia, com os parabéns prontos para mandar pelo WhatsApp.
-- Mais espaço grátis: até 50 pacientes, 15 serviços e 3 médicos, agora com anúncios. O PRO tira os anúncios e não tem limites.
+- Mais espaço grátis: até 50 pacientes, 15 serviços e 3 médicos. O PRO não tem limites.
 
 ## 0.11.2 — setembro 2026
 - O agendamento por voz entende «e meia», «à tarde» dito à parte, apelidos como Zé ou Bia, e pergunta qual quando dois têm o mesmo nome.

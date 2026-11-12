@@ -30,7 +30,7 @@
 ## 0.12.0 — October 2026
 - Discounts: change the price charged when booking or from the details, with −10%, −20% or no charge.
 - Birthdays: add your patients' birthdays and the agenda reminds you on the day, with a greeting ready to send on WhatsApp.
-- More room for free: up to 50 patients, 15 services and 3 doctors, now with ads. PRO removes them and has no limits.
+- More room for free: up to 50 patients, 15 services and 3 doctors. PRO has no limits.
 
 ## 0.11.2 — September 2026
 - Voice booking understands “half past” and “quarter to”, nicknames like Bill or Peggy, and asks which one when two people share a name.

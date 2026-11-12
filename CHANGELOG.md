@@ -30,7 +30,7 @@
 ## 0.12.0 — octubre 2026
 - Descuentos: cambiá el precio cobrado al agendar o desde el detalle, con −10 %, −20 % o sin cargo.
 - Cumpleaños: cargá el cumple de tus pacientes y la agenda te avisa el día, con un saludo listo para mandar por WhatsApp.
-- Más lugar gratis: hasta 50 pacientes, 15 servicios y 3 médicos, ahora con publicidad. PRO la saca y no tiene límites.
+- Más lugar gratis: hasta 50 pacientes, 15 servicios y 3 médicos. PRO no tiene límites.
 
 ## 0.11.2 — septiembre 2026
 - La carga por voz entiende «y media» y «menos cuarto», «a la tarde» dicho aparte, apodos como Pepe o Lola, y si dos se llaman igual te pregunta cuál.
