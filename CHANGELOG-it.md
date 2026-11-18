@@ -1,5 +1,12 @@
 # Novità di DoctorBook
 
+## 0.16.0 — novembre 2026
+**Metodi di pagamento: quanto è entrato con ciascuno**
+
+- Quando completi ogni visita, indica come ha pagato: contanti, bonifico o app, o carta. Poi puoi cambiarlo dal dettaglio.
+- Statistiche: guarda quanto è entrato con ciascun metodo, nel periodo che scegli e mese per mese.
+- In Altro › Metodi di pagamento scegli il tuo metodo abituale e se vuoi che te lo chieda ogni volta.
+
 ## 0.15.0 — novembre 2026
 **Prodotti, carta fedeltà e i tuoi mesi nelle Statistiche**
 

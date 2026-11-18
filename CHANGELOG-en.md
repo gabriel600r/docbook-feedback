@@ -1,5 +1,12 @@
 # What's new in DoctorBook
 
+## 0.16.0 — November 2026
+**Payment methods: how much came in each way**
+
+- When you complete each appointment, mark how they paid: cash, transfer or app, or card. You can change it later from its screen.
+- Metrics: see how much came in each way, for the period you pick and month by month.
+- In More › Payment methods, pick your usual way and whether to be asked each time.
+
 ## 0.15.0 — November 2026
 **Products, a loyalty card and your months in Metrics**
 

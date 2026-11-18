@@ -1,5 +1,12 @@
 # Novidades do DoctorBook
 
+## 0.16.0 — novembro 2026
+**Formas de pagamento: quanto entrou por cada uma**
+
+- Ao concluir cada consulta, marque como foi o pagamento: dinheiro, transferência ou app, ou cartão. Depois você pode mudar nos detalhes.
+- Métricas: veja quanto entrou por cada forma de pagamento, no período que escolher e mês a mês.
+- Em Mais › Formas de pagamento você escolhe a sua forma habitual e se quer que pergunte toda vez.
+
 ## 0.15.0 — novembro 2026
 **Produtos, cartão fidelidade e os seus meses nas Métricas**
 
